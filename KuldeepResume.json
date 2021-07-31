@@ -1,0 +1,54 @@
+{
+	"basics": {
+		"name": "Kuldeep Soni",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/78648754?v=4",
+		"email": "2020KUEC2009@iiitkota.ac.in",
+		"phone": "7976998824",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Elecronics & Communication engineering.I am currently focusing on Computer Programming ",
+		"location": {
+			"address": "168, Shilp Colony,Jhotwara,Jaipur",
+			"postalCode": "302012",
+			"city": "Jaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Kuldeep07033722",
+				"url": "https://twitter.com/Kuldeep07033722/"
+			},
+			{
+				"network": "Github",
+				"username": "Kuldeep2559",
+				"url": "https://www.github.com/Kuldeep2559/"
+			},
+			{
+				"network": "linkedin",
+				"username": "vikasmittal",
+				"url": "https://www.linkedin.com/in/kuldeep-soni-4b3ab31bb/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-08 //Date",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	"skills": [{
+    "level": "Beginner",
+		"keywords": ["Data structure",]
+		"level": "Intermediate",
+		"keywords": ["C/C++","Python"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Badminton"]
+    "name": "Arts",
+		"keywords": ["Reading Novel"]
+	}],
+}
